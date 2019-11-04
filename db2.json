@@ -1,0 +1,32 @@
+{
+  "items": [
+    { "id": 1,  
+      "headline": "HEADLINE 1",
+      "description": "description 1",
+      "image": "wave-at-la-jolla-cove.jpg",
+      "class": "tile" },
+     { "id": 2,  
+      "headline": "HEADLINE 1",
+      "description": "description 1",
+      "image": "wave-at-la-jolla-cove.jpg",
+      "class": "tile" },
+     { "id": 3,  
+      "headline": "HEADLINE 1",
+      "description": "description 1",
+      "image": "wave-at-la-jolla-cove.jpg",
+      "class": "tile" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+
+   "headline": "HEADLINE 1",
+   "description": "description 1",
+   "image": "wave-at-la-jolla-cove.jpg",
+   "class": "tile"
